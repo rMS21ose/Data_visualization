@@ -1,0 +1,10 @@
+pandas==2.2.0
+plotly==6.3.0
+jupyter==1.0.0
+
+
+pandas → for data manipulation
+
+plotly → for interactive visualizations
+
+jupyter → to run the notebook
